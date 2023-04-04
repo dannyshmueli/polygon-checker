@@ -3,7 +3,7 @@ Polygon Checker is a simple Google Chrome extension that checks if a coordinate 
 
 ### Installation
 
-You can install the Polygon Checker extension from the Chrome Web Store.
+You can install the Polygon Checker extension from the Chrome Web Store [Polygon Checker](https://chrome.google.com/webstore/detail/polygon-checker/ddapaifbpicpmfldajmahofeeppkbdkh).
 
 Alternatively, you can download the source code from this GitHub repository and load the extension as an unpacked extension in developer mode in Google Chrome:
 
